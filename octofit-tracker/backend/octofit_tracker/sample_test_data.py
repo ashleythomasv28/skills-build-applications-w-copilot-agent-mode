@@ -28,10 +28,9 @@ test_data = {
         {"user": "sleeptoken", "points": 80}
     ],
     "workouts": [
-        {"user": "thundergod", "workout": "5k Run", "date": "2025-04-01"},
-        {"user": "metalgeek", "workout": "10k Cycle", "date": "2025-04-02"},
-        {"user": "zerocool", "workout": "1k Swim", "date": "2025-04-03"},
-        {"user": "crashoverride", "workout": "Mountain Hike", "date": "2025-04-04"},
-        {"user": "sleeptoken", "workout": "Morning Yoga", "date": "2025-04-05"}
+        {"name": "Crossfit", "description": "Training for a crossfit competition"},
+        {"name": "Running Training", "description": "Training for a marathon"},
+        {"name": "Strength Training", "description": "Training for strength"},
+        {"name": "Swimming Training", "description": "Training for a swimming competition"}
     ]
 }
